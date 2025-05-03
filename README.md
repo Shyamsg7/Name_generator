@@ -1,4 +1,4 @@
-# Name Generator Neural Network Using Pytorch
+# Name Generator Neural Network Using Pytorch (new)
 
 This repository contains a neural network-based models for generating unique names. The model is trained on a dataset of names provided in the `names.txt` file.
 The complete implementation dont use any inbuilt libraries or methods ,but only basic modules like numpy,Pytorch,matplotlib.
